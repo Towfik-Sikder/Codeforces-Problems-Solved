@@ -11,6 +11,7 @@ int main(){
             count++;
         }
     }
+    
     int result = count / 3;
     printf("%d\n", result);
 
